@@ -125,13 +125,13 @@
 })(jQuery);
 
 
-// const showModel = (name) => {
-//     //console.log('clicked')
-//     location.href = `https://prismatic-duckanoo-654b03.netlify.app/showmodel.html?modelName=${name}`;
-// }
-
 const showModel = (name) => {
     //console.log('clicked')
-    location.href = `http://127.0.0.1:5500/showmodel.html?modelName=${name}`;
+    location.href = `https://prismatic-duckanoo-654b03.netlify.app/showmodel.html?modelName=${name}`;
 }
+
+// const showModel = (name) => {
+//     //console.log('clicked')
+//     location.href = `http://127.0.0.1:5500/showmodel.html?modelName=${name}`;
+// }
 

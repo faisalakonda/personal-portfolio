@@ -124,3 +124,14 @@
     
 })(jQuery);
 
+
+const showModel = (name) => {
+    //console.log('clicked')
+    location.href = `https://prismatic-duckanoo-654b03.netlify.app/showmodel.html?modelName=${name}`;
+}
+
+// const showModel = (name) => {
+//     //console.log('clicked')
+//     location.href = `${window.location.href}/showmodel.html?modelName=${name}`;
+// }
+

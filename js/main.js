@@ -132,6 +132,6 @@ const showModel = (name) => {
 
 // const showModel = (name) => {
 //     //console.log('clicked')
-//     location.href = `${window.location.href}/showmodel.html?modelName=${name}`;
+//     location.href = `http://127.0.0.1:5500/showmodel.html?modelName=${name}`;
 // }
 

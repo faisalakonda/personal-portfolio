@@ -7,7 +7,7 @@ body {
   header {
     margin-top: 3em;
     text-align: center;
-    color: white;
+    color: rgb(8, 8, 8);
   }
   
   header h1 {
